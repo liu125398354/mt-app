@@ -18,6 +18,8 @@ module.exports = {
     'vue/html-self-closing': 'off',
     'vue/html-closing-bracket-spacing': 'off',
     'eol-last': 0,
-    'space-before-function-paren': 0
+    'space-before-function-paren': 0,
+    'vue/no-unused-vars': 0,
+    'no-trailing-spaces': 0
   }
 }
