@@ -4,19 +4,20 @@
       <el-col :span="5">
         <emenu></emenu>
       </el-col>
-      <el-col :span="19">区域划分</el-col>
-    </el-row>
-    <el-row :span="24">
-      区域划分
+      <el-col :span="19">
+        <life></life>
+      </el-col>
     </el-row>
   </div>
 </template>
 
 <script>
 import Emenu from '@/components/index/menu'
+import Life from '@/components/index/life'
 export default {
   components: {
-    Emenu
+    Emenu,
+    Life
   }
 }
 </script>
