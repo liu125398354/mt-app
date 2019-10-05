@@ -21,6 +21,10 @@ module.exports = {
     'space-before-function-paren': 0,
     'vue/no-unused-vars': 0,
     'no-trailing-spaces': 0,
-    'prefer-const': 0
+    'prefer-const': 0,
+    'no-lonely-if': 0,
+    'require-await': 0,
+    'no-unused-vars': 0,
+    'import/no-mutable-exports': 0
   }
 }
