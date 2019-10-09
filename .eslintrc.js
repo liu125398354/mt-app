@@ -25,6 +25,8 @@ module.exports = {
     'no-lonely-if': 0,
     'require-await': 0,
     'no-unused-vars': 0,
-    'import/no-mutable-exports': 0
+    'import/no-mutable-exports': 0,
+    'key-spacing': 0,
+    'space-infix-ops': 0
   }
 }
